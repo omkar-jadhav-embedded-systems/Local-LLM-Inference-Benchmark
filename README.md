@@ -1,4 +1,4 @@
-# Local-LLM-Inference-Benchmark# 🚀 Local-LLM-Inference-Benchmark
+# 🚀 Local-LLM-Inference-Benchmark
 
 A comprehensive, automated Python benchmarking suite designed to evaluate the real-world inference performance of local Large Language Models (LLMs) running via [Ollama](https://ollama.com/). 
 
